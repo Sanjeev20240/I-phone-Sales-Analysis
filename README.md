@@ -4,5 +4,7 @@ A data-driven project analyzing iPhone sales trends, revenue growth over time. T
 Project Overview This project aims to answer critical business questions regarding iPhone sales performance:
 
 which i phone sell at higher discount with good Rating ?
-5 point summary for Iphone sales CSV file
+
+5 point summary for Iphone sales CSV file 
+
 which i phone model having higher number of sales ?
